@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 
-contract Krabots is ERC20, ERC20Burnable, ERC20Snapshot, Ownable, Pausable {
+contract Overleague is ERC20, ERC20Burnable, ERC20Snapshot, Ownable, Pausable {
     
     using SafeMath for uint;
 
